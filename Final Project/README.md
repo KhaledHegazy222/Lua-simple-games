@@ -10,7 +10,6 @@
     * End
     
     
-    ![Screenshot from 2022-01-22 22-55-42](https://user-images.githubusercontent.com/52636794/150655240-a034a353-16e6-4056-931c-63927ba8a6bc.png)
     
     
 
