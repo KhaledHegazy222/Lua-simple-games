@@ -25,10 +25,17 @@
   
   
   ###   Shots From The game:
+  1- Start  
+  ![Screenshot from 2022-01-22 23-58-38](https://user-images.githubusercontent.com/52636794/150656778-bf4339dc-a556-450f-8419-b260ecc1e339.png)  
+  2- During the Game   
+  ![Screenshot from 2022-01-22 23-58-22](https://user-images.githubusercontent.com/52636794/150656803-9840e67f-3839-4cff-9fef-081108dfb231.png)
   
-   ![Screenshot from 2022-01-22 22-55-42](https://user-images.githubusercontent.com/52636794/150655396-a5bd753f-13f4-48dd-8a0a-b19c44f6ae6d.png)
-   ![Screenshot from 2022-01-22 22-56-01](https://user-images.githubusercontent.com/52636794/150655538-16bed6e3-eef2-4c89-9e92-741d6c9cbd53.png)
-   ![Screenshot from 2022-01-22 23-10-05](https://user-images.githubusercontent.com/52636794/150655672-f9b3ba9e-76aa-46ba-a144-526b809396aa.png)
+  3- Game Over screen  
+  ![Screenshot from 2022-01-22 23-58-22](https://user-images.githubusercontent.com/52636794/150656798-fe9b5794-6fe1-4458-acc8-04536c3de455.png)
+
+
+
+  
 
 ### Graphics & Animation  
 
