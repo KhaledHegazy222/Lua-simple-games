@@ -1,9 +1,9 @@
 # Mario Game  
 
 ### Table of the Content:
-  * [Overivew](### Overview)  
-  * [Gameplay](### Gameplay)  
-  * [Graphics & Animation](#### Graphics & Animation)  
+  * [Overivew](#Overview)  
+  * [Gameplay](#Gameplay)  
+  * [Graphics & Animation](#Graphics-&-Animation)  
 
 
 
