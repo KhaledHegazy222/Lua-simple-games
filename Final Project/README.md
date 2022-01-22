@@ -1,9 +1,9 @@
 # Mario Game  
 
 ### Table of the Content:
-  * [Overivew](#Overview)  
-  * [Gameplay](#Gameplay)  
-  * [Graphics & Animation](#Graphics-&-Animation)  
+  * [Overivew](https://github.com/KhaledHegazy222/Lua-simple-games/blob/master/Final%20Project/README.md#overview-)  
+  * [Gameplay](https://github.com/KhaledHegazy222/Lua-simple-games/blob/master/Final%20Project/README.md#gameplay-)  
+  * [Graphics & Animation](https://github.com/KhaledHegazy222/Lua-simple-games/blob/master/Final%20Project/README.md#graphics--animation)  
 
 
 
