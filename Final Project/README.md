@@ -1,13 +1,13 @@
 # Mario Game  
 
-## Table of the Content:
-  * Overivew
-  * Gameplay
-  * Graphics & Animation
+### Table of the Content:
+  * [Overivew](###Overview)
+  * [Gameplay](###Gameplay)
+  * [Graphics & Animation](#### Graphics & Animation)
 
 
 
-## Overview :  
+### Overview :  
   This is a Simple obstacle avoiding game programmed by __LUA Programming langugage__.  
   The Game has 3 States:  
   * Start  
@@ -17,8 +17,8 @@
   The Game is powered by **2d LÖVE engine** which used to create 2d games.  
   
   
-  ## Gameplay : 
-  ###   Game Instructions
+  ### Gameplay : 
+  ####   Game Instructions
         
   1- At First you have to press "Enter" To start the game.  
   2- then you have to avoid the obstacles by jumping over it using "Space bar".  
@@ -29,7 +29,7 @@
   
   
   
-  ###   Shots From The game:
+  ####   Shots From The game:
   1- Start  
   ![Screenshot from 2022-01-22 23-58-38](https://user-images.githubusercontent.com/52636794/150656778-bf4339dc-a556-450f-8419-b260ecc1e339.png)  
   2- During the Game   
@@ -42,15 +42,15 @@
 
   
 
-### Graphics & Animation  
+#### Graphics & Animation  
 
-The Animation is simply by flipping diffirent positions of the character in each frame according to  the current state of moving:  
+The Animation is simply performed by flipping diffirent positions of the character in each frame according to the current state of moving:  
   * Jumping   
   * Walking   
   * Stop   
   
   
- The Spirit sheets:   
+ ##### The Spirit sheets:   
  ![image](https://user-images.githubusercontent.com/52636794/150655667-a7740e62-bc63-40a6-834f-222817c466d6.png)    
  ![image](https://user-images.githubusercontent.com/52636794/150657029-aa2d70d3-c81d-4553-9369-5c0854f10609.png)  
 
